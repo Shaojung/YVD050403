@@ -11,6 +11,6 @@ public class MyReceiver extends BroadcastReceiver {
     public void onReceive(Context context, Intent intent) {
         // TODO: This method is called when the BroadcastReceiver is receiving
         // an Intent broadcast.
-        Log.d("REC1", "onReceive!!");
+        Log.d("REC1", "onReceive Alarm!!");
     }
 }
